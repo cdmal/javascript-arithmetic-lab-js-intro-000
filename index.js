@@ -18,6 +18,6 @@ function decrement(n){
 }
 
 function makeInt(n){
-  parseInt ('a', 10)
+  parseInt ('n', 10)
   return 10
 }
