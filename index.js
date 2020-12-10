@@ -19,5 +19,5 @@ function decrement(n){
 
 function makeInt(n){
   parseInt (n,10)
-  return ('0x2328',10)
+  return (10)
 }
