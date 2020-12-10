@@ -11,5 +11,5 @@ function divide (x,y){
   return x / y
 }
 function increment(n){
-  return 
+  return n+1
 }
